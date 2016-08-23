@@ -1,0 +1,65 @@
+/* font: font-style || font-variant || font-weight || font-size || line-height || font-family
+background: background-color || background-image || background-repeat || background-attachment || background-position */
+
+body{ padding:0; margin:0; color:#13730a; background-color:#21ad10; min-width:238px; font-family:Tahoma,'??',sans-serif; line-height:130%; }
+img {max-width:80%;}
+p{ margin:0; }
+img, a { border:none; outline:none; margin-left:-4px; outline-color: #13730a; color:#13730a; }
+
+.fl{ float:left; }
+.fr{ float:right; }
+.bdr1{ border-bottom: 1px dashed #333366; border-top: 1px dashed #333366; }
+.pd1{ padding:0 8px; }
+.pd2{ padding:10px 8px 10px 8px; }
+.pd3{ padding:8px; }
+.mgt1{ margin-top:15px; text-align: center;}
+.mgt33{width: auto; overflow: hidden; padding: 0pt 8px;
+}
+.mgt2{margin-top:2px;padding:0 8px;
+    width:auto;
+    overflow:hidden;
+}
+.btnImg img{
+	margin-top: -70px;
+}
+
+.bg1{ background-color:#d8dee3; width:100%; height:16px; }
+.bg2{}
+
+.input1{ background-color:#ffffff; width:133px; height:23px; line-height:23px; vertical-align:middle; border:1px #7c99b5 solid; }
+.input2{margin-top:10px;
+    margin-left:0px;
+}
+.inp_a1{color:#16658A;
+    font-size:13px;
+    font-weight:bold;}
+.btn1{ color:#1d5903; font-weight:bold; margin-left:13px; vertical-align:middle; } /*height:27px; line-height:27px; background:transparent url(../img/btn63_green.gif) no-repeat scroll 0 0; text-shadow:0 1px 0 rgba(200, 255, 120, 0.7);*/
+.img1{ width:240px; height:255px; }
+
+#main{ min-height:320px; }
+#footer{ width:100%; height:30px; line-height:30px; font-size:14px; color:#ffffff; background:transparent url(../img/bg_foot.gif) repeat-x scroll 0 0; position:absolute; bottom:0; }
+
+.txt1{ font-size:13px; color:#417408; text-decoration:underline; }
+.clr1{ color:#16658a; }
+.clr2{ color:#f39112; }
+.clr3{ color:#ffffff; }
+.clr4{ color:#666666; }
+.font1{ font-size:12px; }
+.font2{ font-size:14px; }
+.font3{ font-size:13px; }
+.fontbold{ font-weight:bold; }
+.mgt1 IMG { max-width: 85%; width: 85%;}
+.btnImg{
+    position: absolute;
+    bottom: 0;
+    height: 20%;
+    left: 20%;
+    width: 60%;
+    margin-bottom: -10px;
+}
+.topbox
+.pd4.font3:after {
+    content: "Al dar clic al botón, quedarás suscrito.";
+    visibility: visible;
+    display: block;
+}
